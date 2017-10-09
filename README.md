@@ -1,22 +1,21 @@
 # Intro to JavaScript 
 
-What is JavaScript?
+## What is JavaScript?
 JavaScript is an expressive programming language that powers a tremendous amount of the interactivity on the web, and increasingly powers servers behind the scenes. JavaScript written to run in a browser is often called "front-end" programming, and server-side JavaScript is usually considered "back-end" programming. In particular in front-end programming, JavaScript works hand-in-hand with HTML and CSS.
 
-HOW TO CREATE A JAVASCRIPT FILE
+### How to Create a JavaScript File
 
-  In Atom, create a new file and name it main.js
-    The '.js' file extension name indicates that it is a JavaScript file
-    
-  Create a new HTML file and name it index.html
-  
-  Link your JS file inside of your HTML file 
-    The line below should be right before your </body> tag. 
+1. In Atom (or your preferred text editor), create a new file and name it main.js
+2. The '.js' file extension name indicates that it is a JavaScript file
+3. Create a new HTML file and name it index.html
+4. Link your JS file inside of your HTML file 
+5. The line below should be right before your </body> tag. 
       This is because you want   all of your other content (HTML and CSS) to run in the browser first. 
-    <script src="main.js"></script>
+   
+   **<script src="main.js"></script>**
     
     
-COMPLETE THE FOLLOWING QUESTIONS BELOW: 
+### The Assignment - Complete the questions below
 
 1. The below function does not work. The variable twoPlusTwo gets set to undefined. Refactor the function to make it work.
 
